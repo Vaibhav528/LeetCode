@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaibhav528/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Vaibhav528/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vaibhav528/LeetCode/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Vaibhav528/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
